@@ -56,11 +56,15 @@ apresentacao/     -> Telas e componentes visuais
 
 ## Telas do App
 
-
+<img width="1918" height="634" alt="Telas IrrigaSmart" src="https://github.com/user-attachments/assets/4eb60fc5-4b61-4927-9f2d-dc17b75f8b98" />
 
 ## Protótipo e Diagramas
 
+<img width="899" height="290" alt="IrrigaSmart" src="https://github.com/user-attachments/assets/e61d9dc8-1f8b-4fe3-a765-a2187e5daef6" />
 
+<img width="1920" height="1080" alt="Diagrama de Controle" src="https://github.com/user-attachments/assets/382a4ad7-734c-402e-9b10-49e20ac6445b" />
+
+<img width="1920" height="1080" alt="Diagrama de Potência" src="https://github.com/user-attachments/assets/d00a2ee9-8334-4581-995e-c1a4a076d4e9" />
 
 ## ⚙️ Tecnologias Utilizadas
 
